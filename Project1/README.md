@@ -1,6 +1,6 @@
-Project 1: End-to-End Pipeline to Classify News Articles
+###Project 1: End-to-End Pipeline to Classify News Articles
 
-### Features
+## Features
 * An single End-to-End Pipeline to Classify News Articles
 * Support major classifiers
 
