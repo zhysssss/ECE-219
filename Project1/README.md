@@ -1,7 +1,7 @@
 # Project 1: End-to-End Pipeline to Classify News Articles
 
 ## Features
-* An single End-to-End Pipeline to Classify News Articles
+* A single End-to-End Pipeline to Classify News Articles
 * Support major classifiers
 
 ## Installation
